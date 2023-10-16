@@ -1,5 +1,4 @@
-*November 28, 2023
-Brisbane, Australia*
+*28th November 2023 in Brisbane, Australia*
 
 ![cec](https://raw.githubusercontent.com/Shiqing-Liu/AJCAI2023-workshop/main/AJCAI-background.jpg)
 
