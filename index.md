@@ -17,19 +17,34 @@ Recently, data-driven optimization has attracted increasing attention in learnin
 
 This workshop aims to bring together researchers from different fields working on novel theories, algorithms and applications of data-driven optimization. Topics of interest include but are not limited to:
 
-•   Advanced surrogate models and innovative acquisition functions
+- Advanced surrogate models and innovative acquisition functions
 
-•   Single-/Multi-/Many-objective data-driven large-scale optimization
+- Single-/Multi-/Many-objective data-driven large-scale optimization
 
-•   Noisy/Robust data-driven optimization
+- Noisy/Robust data-driven optimization
 
-•   Multi-task and knowledge transfer in data-driven optimization
+- Multi-task and knowledge transfer in data-driven optimization
 
-•   Data-driven combinatorial optimization and applications
+- Data-driven combinatorial optimization and applications
 
-•   Graph neural networks for combinatorial optimization
+- Graph neural networks for combinatorial optimization
 
-•   Combination of neural networks and heuristic algorithms
+- Combination of neural networks and heuristic algorithms
+
+****
+
+**Invited Speakers**
+
+- Dr. Mengjie Zhang, Victoria University of Wellington (VUW), Wellington, New Zealand
+  
+- Dr. Xiaodong Li, Royal Melbourne Institute of Technology (RMIT), Melbourne, Australia
+  
+- Dr. Ying Bi, Zhengzhou University, Zhengzhou, China
+  
+- Dr. Ye Tian, Anhui University, Anhui, China
+  
+- to be announced...
+
 
 ****
 
