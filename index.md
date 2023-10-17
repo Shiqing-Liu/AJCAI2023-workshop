@@ -35,13 +35,17 @@ This workshop aims to bring together researchers from different fields working o
 
 **Invited Speakers**
 
-- Dr. Mengjie Zhang, Victoria University of Wellington (VUW), Wellington, New Zealand
+- Dr. Carlos A. Coello Coello, Center for Research and Advanced Studies of the National Polytechnic Institute(CINVESTAV-IPN), Mexico
+
+- Dr. Mengjie Zhang, Victoria University of Wellington(VUW), New Zealand
   
-- Dr. Xiaodong Li, Royal Melbourne Institute of Technology (RMIT), Melbourne, Australia
+- Dr. Xiaodong Li, Royal Melbourne Institute of Technology(RMIT), Australia
   
-- Dr. Ying Bi, Zhengzhou University, Zhengzhou, China
+- Dr. Ying Bi, Zhengzhou University, China
   
-- Dr. Ye Tian, Anhui University, Anhui, China
+- Dr. Ye Tian, Anhui University, China
+
+- Dr. Cheng He, Huazhong University of Science and Technology, China
   
 - to be announced...
 
