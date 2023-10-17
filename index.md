@@ -47,7 +47,7 @@ This workshop aims to bring together researchers from different fields working o
 
 - Dr. Cheng He, Huazhong University of Science and Technology, China
   
-- to be announced...
+- Mr. Jan Tönshoff, RWTH Aachen University, Germany
 
 
 ****
