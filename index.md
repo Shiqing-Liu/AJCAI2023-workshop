@@ -54,7 +54,7 @@ This workshop aims to bring together researchers from different fields working o
 
 **Organization**
 
-This half-day workshop will consist of two invited speeches (30 minutes each) given by world-leading experts, six regular oral presentations, each having 15 minutes, and a 20-minute free discussion session.  The free discussion session will provide the opportunity for all participants to ask questions and engage in an interactive discussion with the expert, focusing on identifying key challenges, potential collaborations, and future research directions in the field. Finally, the workshop organizers will summarize the key takeaways from the workshop, highlighting important insights, research trends, and potential opportunities that emerged during the discussions. Details of the conference can be obtained by AJCAI2023 website <https://ajcai2023.org/index.html>. 
+This half-day workshop will consist of two invited speeches (30 minutes each), five regular oral presentations (15 minutes each), and a 20-minute free discussion session. The free discussion session will provide the opportunity for all participants to ask questions and engage in an interactive discussion with the expert, focusing on identifying key challenges, potential collaborations, and future research directions in the field. After the discussion, the workshop organizers will summarize the key takeaways from the workshop, highlighting important insights, research trends, and potential opportunities that emerged during the discussions. Details of the conference can be obtained by AJCAI2023 website <https://ajcai2023.org/index.html>. 
 
 
 ****
