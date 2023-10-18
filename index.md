@@ -52,7 +52,7 @@ This workshop aims to bring together researchers from different fields working o
 
 - Dr. Cheng He, Huazhong University of Science and Technology, China
 
-  <p style="color: gray;">Dr. Cheng He received the Ph.D. degree from the Huazhong University of Science and Technology, Wuhan, China, in 2018. He is currently an Associate Professor with the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, China. His main research interests are Artificial/Computational Intelligence (including evolutionary multi-objective optimization, model-based optimization, large-scale optimization, etc.). He is an Associate Editor of Complex & Intelligent Systems, and an Editorial Board member of Electronics.</p>
+  <p style="color: gray;">Cheng He received the Ph.D. degree from the Huazhong University of Science and Technology, Wuhan, China, in 2018. He is currently an Associate Professor with the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, China. His main research interests are Artificial/Computational Intelligence (including evolutionary multi-objective optimization, model-based optimization, large-scale optimization, etc.). He is an Associate Editor of Complex & Intelligent Systems, and an Editorial Board member of Electronics.</p>
   
 - Mr. Jan Tönshoff, RWTH Aachen University, Germany
   
