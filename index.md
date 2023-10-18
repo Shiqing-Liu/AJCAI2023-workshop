@@ -37,17 +37,29 @@ This workshop aims to bring together researchers from different fields working o
 
 - Dr. Carlos A. Coello Coello, Center for Research and Advanced Studies of the National Polytechnic Institute(CINVESTAV-IPN), Mexico
 
+  Carlos A. Coello Coello (Fellow, IEEE) received the Ph.D. degree in computer science from Tulane University, New Orleans, LA, USA, in 1996. He is a Professor (CINVESTAV-3F Researcher) with the Department of Computer Science of CINVESTAV-IPN, Mexico City, Mexico. He has authored and coauthored over 450 technical papers and book chapters. He has also coauthored the book Evolutionary Algorithms for Solving Multi-Objective Problems (Second Edition, Springer, 2007). His publications currently report over 57 600 citations in Google Scholar (his H-index is 95). His research interests include evolutionary multiobjective optimization and constraint-handling techniques for evolutionary algorithms. Dr. Coello Coello was a recipient of the 2007 National Research Award from the Mexican Academy of Sciences in the area of Exact Sciences, the 2013 IEEE Kiyo Tomiyasu Award, and the 2012 National Medal of Science and Arts in the area of Physical, Mathematical and Natural Sciences. He is currently the Editor-in-Chief of the IEEE TRANSACTIONS ON EVOLUTIONARY COMPUTATION. He is a member of the Association for Computing Machinery and the Mexican Academy of Science.
+
 - Dr. Mengjie Zhang, Victoria University of Wellington(VUW), New Zealand
+
+  
   
 - Dr. Xiaodong Li, Royal Melbourne Institute of Technology(RMIT), Australia
+
+  Xiaodong Li (Fellow, IEEE) received the B.Sc. degree from Xidian University, Xi’an, China, in 1988, and the Ph.D. degree in information science from the University of Otago, Dunedin, New Zealand, in 1998. He is a Professor with the School of Computing Technologies, RMIT University, Melbourne, VIC, Australia. His research interests include machine learning, evolutionary computation, neural networks, data analytics, multiobjective optimization, multimodal optimization, and swarm intelligence. Prof. Li was a recipient of the 2013 ACM SIGEVO Impact Award and the 2017 IEEE CIS IEEE Transactions on Evolutionary Computation Outstanding Paper Award. He serves as an Associate Editor for the IEEE Transactions on Evolutionary Computation and Swarm Intelligence (Springer). He is the Former Vice-Chair of the IEEE Task Force on Multimodal Optimization and the Former Chair of the IEEE CIS Task Force on Large Scale Global Optimization.
   
 - Dr. Ying Bi, Zhengzhou University, China
+
+  Ying Bi (Member, IEEE) received the Ph.D. degree from the Victoria University of Wellington, Wellington, New Zealand, in 2020. She is a distinguished professor, selected by National Young Talent Program, with the computational intelligence laboratory of Zhengzhou University. She has been engaged in theoretical and applied research in genetic programming, evolutionary computing, machine learning, computer vision and other fields for a long time, published the world's first English monograph on image classification based on genetic programming, published 55 academic papers in international academic journals and conferences, including 25 SCI journal articles, published 16 papers as the first or corresponding author of TOP journals of the first region of the Chinese Academy of Sciences.
   
 - Dr. Ye Tian, Anhui University, China
+  Ye Tian is currently an Associate Professor with the School of Computer Science and Technology, Anhui University, Hefei, China. His research interests include evolutionary computation and its applications, and has published more than 60 papers with 7000+ citations. He is the recipient of the 2022 IEEE CIS Outstanding PhD Dissertation Award, the 2018, 2021, and 2024 IEEE TEVC Outstanding Paper Awards, and the 2020 IEEE CIM Outstanding Paper Award.
 
 - Dr. Cheng He, Huazhong University of Science and Technology, China
+
+  Dr. Cheng He received the Ph.D. degree from the Huazhong University of Science and Technology, Wuhan, China, in 2018. He is currently an Associate Professor with the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, China. His main research interests are Artificial/Computational Intelligence (including evolutionary multi-objective optimization, model-based optimization, large-scale optimization, etc.). He is an Associate Editor of Complex & Intelligent Systems, and an Editorial Board member of Electronics.
   
 - Mr. Jan Tönshoff, RWTH Aachen University, Germany
+  <p style="color: gray;">这是灰色的段落文本</p>
 
 
 ****
