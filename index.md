@@ -56,7 +56,7 @@ This workshop aims to bring together researchers from different fields working o
   
 - Mr. Jan Tönshoff, RWTH Aachen University, Germany
 
-  <p style="color: gray;">Jan Tönshoff is a PhD student at the Chair for Logic and Theory of Discrete Systems at RWTH Aachen University, where I work for Prof. Martin Grohe. His research explores both practical and theoretical aspects of machine learning on graph-structured data, with applications ranging from combinatorial optimization to learning on relational databases. One of his core research interest is to develop trainable heuristics for Constraint Satisfaction Problems based on Graph Neural Networks and Reinforcement Learning.</p>
+  <p style="color: gray;">Jan Tönshoff is a PhD student at the Chair for Logic and Theory of Discrete Systems at RWTH Aachen University, where he works for Prof. Martin Grohe. His research explores both practical and theoretical aspects of machine learning on graph-structured data, with applications ranging from combinatorial optimization to learning on relational databases. One of his core research interest is to develop trainable heuristics for Constraint Satisfaction Problems based on Graph Neural Networks and Reinforcement Learning.</p>
 
 
 ****
