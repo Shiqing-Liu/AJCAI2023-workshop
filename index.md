@@ -55,7 +55,8 @@ This workshop aims to bring together researchers from different fields working o
   <p style="color: gray;">Cheng He received the Ph.D. degree from the Huazhong University of Science and Technology, Wuhan, China, in 2018. He is currently an Associate Professor with the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, China. His main research interests are Artificial/Computational Intelligence (including evolutionary multi-objective optimization, model-based optimization, large-scale optimization, etc.). He is an Associate Editor of Complex & Intelligent Systems, and an Editorial Board member of Electronics.</p>
   
 - Mr. Jan Tönshoff, RWTH Aachen University, Germany
-  
+
+  <p style="color: gray;">Jan Tönshoff is a PhD student at the Chair for Logic and Theory of Discrete Systems at RWTH Aachen University, where I work for Prof. Martin Grohe. His research explores both practical and theoretical aspects of machine learning on graph-structured data, with applications ranging from combinatorial optimization to learning on relational databases. One of his core research interest is to develop trainable heuristics for Constraint Satisfaction Problems based on Graph Neural Networks and Reinforcement Learning.</p>
 
 
 ****
