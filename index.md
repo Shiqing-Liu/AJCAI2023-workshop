@@ -76,7 +76,7 @@ Shiqing Liu, Faculty of Technology, Bielefeld University, Germany. Email: <shiqi
 
 Xiangyu Wang, Faculty of Technology, Bielefeld University, Germany. Email: <xiangyu.wang@uni-bielefeld.de>
 
-Prof. Dr. Yaochu Jin, Westlake University, China. Email: <yaochu.jin@uni-bielefeld.de>
+Prof. Dr. Yaochu Jin, Westlake University, China. Email: <jinyaochu@westlake.edu.cn>
 
 ****
 
