@@ -35,11 +35,11 @@ This workshop aims to bring together researchers from different fields working o
 
 **Invited Speakers**
 
-- Dr. Carlos A. Coello Coello, Center for Research and Advanced Studies of the National Polytechnic Institute(CINVESTAV-IPN), Mexico
+- Prof. Carlos A. Coello Coello, Center for Research and Advanced Studies of the National Polytechnic Institute(CINVESTAV-IPN), Mexico
 
   <p style="color: gray;">Carlos A. Coello Coello (Fellow, IEEE) received the Ph.D. degree in computer science from Tulane University, New Orleans, LA, USA, in 1996. He is a Professor (CINVESTAV-3F Researcher) with the Department of Computer Science of CINVESTAV-IPN, Mexico City, Mexico. He has authored and coauthored over 450 technical papers and book chapters. He has also coauthored the book Evolutionary Algorithms for Solving Multi-Objective Problems (Second Edition, Springer, 2007). His publications currently report over 57 600 citations in Google Scholar (his H-index is 95). His research interests include evolutionary multiobjective optimization and constraint-handling techniques for evolutionary algorithms. Dr. Coello Coello was a recipient of the 2007 National Research Award from the Mexican Academy of Sciences in the area of Exact Sciences, the 2013 IEEE Kiyo Tomiyasu Award, and the 2012 National Medal of Science and Arts in the area of Physical, Mathematical and Natural Sciences. He is currently the Editor-in-Chief of the IEEE TRANSACTIONS ON EVOLUTIONARY COMPUTATION. He is a member of the Association for Computing Machinery and the Mexican Academy of Science.</p>
   
-- Dr. Xiaodong Li, Royal Melbourne Institute of Technology(RMIT), Australia
+- Prof. Xiaodong Li, Royal Melbourne Institute of Technology(RMIT), Australia
 
   <p style="color: gray;">Xiaodong Li (Fellow, IEEE) received the B.Sc. degree from Xidian University, Xi’an, China, in 1988, and the Ph.D. degree in information science from the University of Otago, Dunedin, New Zealand, in 1998. He is a Professor with the School of Computing Technologies, RMIT University, Melbourne, VIC, Australia. His research interests include machine learning, evolutionary computation, neural networks, data analytics, multiobjective optimization, multimodal optimization, and swarm intelligence. Prof. Li was a recipient of the 2013 ACM SIGEVO Impact Award and the 2017 IEEE CIS IEEE Transactions on Evolutionary Computation Outstanding Paper Award. He serves as an Associate Editor for the IEEE Transactions on Evolutionary Computation and Swarm Intelligence (Springer). He is the Former Vice-Chair of the IEEE Task Force on Multimodal Optimization and the Former Chair of the IEEE CIS Task Force on Large Scale Global Optimization.</p>
   
@@ -61,9 +61,22 @@ This workshop aims to bring together researchers from different fields working o
 
 ****
 
-**Organization**
+**Organization & Schedule**
 
-This half-day workshop will consist of two invited speeches (30 minutes each), four regular oral presentations (15 minutes each), and a 20-minute free discussion session. The free discussion session will provide the opportunity for all participants to ask questions and engage in an interactive discussion with the expert, focusing on identifying key challenges, potential collaborations, and future research directions in the field. After the discussion, the workshop organizers will summarize the key takeaways from the workshop, highlighting important insights, research trends, and potential opportunities that emerged during the discussions. Details of the conference can be obtained by AJCAI2023 website <https://ajcai2023.org/index.html>. 
+This half-day workshop will consist of two invited speeches (30 minutes each), six regular oral presentations (15 minutes each + 5 minutes discussion), and a 10-minute conclusion session. The free discussion will provide the opportunity for all participants to ask questions and engage in an interactive discussion with the expert, focusing on identifying key challenges, potential collaborations, and future research directions in the field. After the discussion, the workshop organizers will summarize the key takeaways from the workshop, highlighting important insights, research trends, and potential opportunities that emerged during the discussions. Details of the conference can be obtained by AJCAI2023 website <https://ajcai2023.org/index.html>. 
+
+| Speaker | Australian Eastern Time (GMT+11) |
+|-----|-----|
+| Introduction | 9:00-9:10 |
+| Prof. Carlos A. Coello Coello | 9:10-9:40 |
+| Prof. Xiaodong Li | 9:45-10:15 |
+| Jan Tönshoff | 10:20-10:35 |
+| Shiqing Liu | 10:40-10:55 |
+| Xiangyu Wang | 11:00-11:15 |
+| Dr. Ye Tian | 11:20-11:35 |
+| Dr. Ying Bi | 11:40-11:55 |
+| Dr. Cheng He | 12:00-12:20 |
+| Conclusion | 12:20-12:30 |
 
 
 ****
