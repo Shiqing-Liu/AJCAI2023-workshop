@@ -48,6 +48,7 @@ This workshop aims to bring together researchers from different fields working o
   <p style="color: gray;">Ying Bi (Member, IEEE) received the Ph.D. degree from the Victoria University of Wellington, Wellington, New Zealand, in 2020. She is a distinguished professor, selected by National Young Talent Program, with the computational intelligence laboratory of Zhengzhou University. She has been engaged in theoretical and applied research in genetic programming, evolutionary computing, machine learning, computer vision and other fields for a long time, published the world's first English monograph on image classification based on genetic programming, published 55 academic papers in international academic journals and conferences, including 25 SCI journal articles, published 16 papers as the first or corresponding author of TOP journals of the first region of the Chinese Academy of Sciences.</p>
   
 - Dr. Ye Tian, Anhui University, China
+  
   <p style="color: gray;">Ye Tian is currently an Associate Professor with the School of Computer Science and Technology, Anhui University, Hefei, China. His research interests include evolutionary computation and its applications, and has published more than 60 papers with 7000+ citations. He is the recipient of the 2022 IEEE CIS Outstanding PhD Dissertation Award, the 2018, 2021, and 2024 IEEE TEVC Outstanding Paper Awards, and the 2020 IEEE CIM Outstanding Paper Award.</p>
 
 - Dr. Cheng He, Huazhong University of Science and Technology, China
