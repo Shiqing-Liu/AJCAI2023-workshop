@@ -66,7 +66,7 @@ This workshop aims to bring together researchers from different fields working o
 
 This half-day workshop will consist of two invited speeches (30 minutes each), six regular oral presentations (15 minutes each + 5 minutes discussion), and a 10-minute conclusion session. The free discussion will provide the opportunity for all participants to ask questions and engage in an interactive discussion with the expert, focusing on identifying key challenges, potential collaborations, and future research directions in the field. After the discussion, the workshop organizers will summarize the key takeaways from the workshop, highlighting important insights, research trends, and potential opportunities that emerged during the discussions. Details of the conference can be obtained by AJCAI2023 website <https://ajcai2023.org/index.html>. 
 
-| Speaker | Australian Eastern Time (GMT+11) |
+| Speaker | Australian Eastern Time (GMT+10) |
 |-----|-----|
 | Introduction | 9:00-9:10 |
 | Prof. Carlos A. Coello Coello | 9:10-9:40 |
